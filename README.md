@@ -2,7 +2,7 @@
 ![Purple Abstract Graphic Design LinkedIn Article Cover Image](https://github.com/user-attachments/assets/1990297c-4dd6-4555-b221-e77dcc3a1982)
 
 <h1 align="center">Hi 👋, I'm Rahul Mondol</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulwde&label=Profile%20views&color=0e75b6&style=flat" alt="rahulwde" /> </p>
