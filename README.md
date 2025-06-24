@@ -1,5 +1,5 @@
 
-![Purple Abstract Graphic Design LinkedIn Article Cover Image](https://github.com/user-attachments/assets/1990297c-4dd6-4555-b221-e77dcc3a1982)
+![Purple Abstract Graphic Design LinkedIn Article Cover Image](https://i.ibb.co/xqGJnyLZ/cover.png)
 
 <h1 align="center">Hi 👋, I'm Rahul Mondol</h1>
 <h3 align="center">A passionate frontend developer</h3>
