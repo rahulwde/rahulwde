@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulwde&label=Profile%20views&color=0e75b6&style=flat" alt="rahulwde" /> </p>
 
-- 🌱 I’m currently learning **React JS learning**
+- 🌱 I’m exploring  **React JS **
 
 - 💬 Ask me about **react javascript**
 
