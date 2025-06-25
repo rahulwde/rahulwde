@@ -6,6 +6,24 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulwde&label=Profile%20views&color=0e75b6&style=flat" alt="rahulwde" /> </p>
+const Rahul = {
+    name: "Rahul Mondol",
+    pronouns: "He/Him",
+    role: "Frontend Developer",
+    country: "Bangladesh",
+    skills: ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS", "Express.js", "MongoDB", "Firebase"],
+    learning: ["Full Stack Development", "React.js", "Express.js", "MongoDB", "UI/UX Basics"],
+    askMeAbout: ["Frontend Development", "Backend with Express.js", "Database with MongoDB & Firebase"],
+    technologies: {
+        frontEnd: ["React.js", "Tailwind CSS", "HTML", "CSS", "JavaScript"],
+        backEnd: ["Express.js", "Node.js"],
+        databases: ["MongoDB", "Firebase"],
+        tools: ["VS Code", "Figma", "GitHub"],
+    },
+    currentFocus: "Mastering Full Stack Web Development with MERN Stack.",
+    funFact: "I love solving problems and making websites look beautiful!"
+};
+
 
 - 🌱 I’m exploring  **React JS **
 
