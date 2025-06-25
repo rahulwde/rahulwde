@@ -6,6 +6,13 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulwde&label=Profile%20views&color=0e75b6&style=flat" alt="rahulwde" /> </p>
+📌 About Me
+
+- 💻 I enjoy solving web development problems and building user-friendly interfaces.
+- 🛠️ Currently working on a local event booking and delivery platform.
+- 📚 I’m learning advanced backend integration and performance optimization.
+- ♿ I’m a person with physical disabilities and passionate about accessibility in tech.
+
 
 - 🌱 I’m exploring  **React JS **
 
