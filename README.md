@@ -6,13 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulwde&label=Profile%20views&color=0e75b6&style=flat" alt="rahulwde" /> </p>
- const currentGoals = {
-  🔥 building: "Modern MERN Stack Applications",
-  📚 learning: "Advanced React & Next.js Concepts",
-  🎯 mastering: "Frontend Development Best Practices",
-  🚀 exploring: "Latest Web Technologies",
-  💡 focus: "Creating User-Friendly Interfaces"
-};
+
 - 🌱 I’m exploring  **React JS **
 
 - 💬 Ask me about **react javascript**
